@@ -36,6 +36,7 @@ Ambitious software engineer candidate pursuing a Bachelor's degree in Computer S
 
 ### Social Media Manager  
 **TBD** — Under Construction
+
 ---
 
 ## 💼 Work Experience
