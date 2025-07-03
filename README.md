@@ -34,6 +34,8 @@ Ambitious software engineer candidate pursuing a Bachelor's degree in Computer S
 **quaidtahir.com** — Built with Next.js, TypeScript, Tailwind CSS
 *June 2025*
 
+### Social Media Manager  
+**TBD** — Under Construction
 ---
 
 ## 💼 Work Experience
