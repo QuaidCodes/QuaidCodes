@@ -16,6 +16,11 @@ I build scalable, elegant software solutions that solve problems that matter.
 Ambitious software engineer candidate pursuing a Bachelor's degree in Computer Science. Proficient in multiple languages with hands-on experience designing scalable, high-performance applications. Passionate about writing clean, maintainable code and continuously learning modern best practices to solve real-world problems.
 
 ---
+## 📊 GitHub Stats
+
+![QuaidCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuaidCodes&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuaidCodes&layout=compact&theme=github_dark)
 
 ## 🛠 Skills & Tech Radar
 
@@ -27,18 +32,7 @@ Ambitious software engineer candidate pursuing a Bachelor's degree in Computer S
 
 ### Portfolio Website Project  
 **quaidtahir.com** — Built with Next.js, TypeScript, Tailwind CSS
-
 *June 2025*
-
-- Designed, developed, and deployed a modern personal portfolio website to showcase my technical skills, projects, and professional background.  
-- Fully responsive and optimized for performance, featuring interactive UI elements, custom animations, and a secure contact form integrated with Resend for real-time email notifications.  
-- Built with Next.js App Router, TypeScript, and Tailwind CSS to ensure scalable architecture and maintainable code.  
-- Integrated Framer Motion for smooth page transitions and animations.  
-- Contact form built with Zod validation and Resend email API for reliable message delivery.  
-- Deployed on Vercel with a custom domain through Namecheap, leveraging edge caching for fast global load times.  
-- Optimized for SEO, performance (image optimization, lazy loading), and accessibility (semantic HTML, keyboard navigation).  
-- Mobile-first design with dark/light theme support.  
-- Source code is open on GitHub, following clean code practices and Git version control.
 
 ---
 
