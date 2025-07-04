@@ -17,9 +17,6 @@ Ambitious software engineer candidate pursuing a Bachelor's degree in Computer S
 
 ---
 ## 📊 GitHub Stats
-
-![QuaidCodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuaidCodes&show_icons=true&theme=github_dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuaidCodes&layout=compact&theme=github_dark)
 
 ## 🛠 Skills & Tech Radar
