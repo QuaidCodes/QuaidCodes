@@ -1,15 +1,6 @@
 ## Software Engineer
----
-
 📫 **Get in touch:**  
 [📧 quaidtahirw@gmail.com](mailto:quaidtahirw@gmail.com) | [🌐 quaidtahir.com](https://quaidtahir.com) | [🐙 github.com/QuaidCodes](https://github.com/QuaidCodes) | [💼 linkedin.com/in/quaidtahir](https://linkedin.com/in/quaidtahir)
-
----
-
-## 👨‍💻 Professional Summary
-
-Ambitious software engineer candidate pursuing a Bachelor's degree in Computer Science. Proficient in multiple languages with hands-on experience designing scalable, high-performance applications. Passionate about writing clean, maintainable code and continuously learning modern best practices to solve real-world problems.
-
 ---
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuaidCodes&layout=compact&theme=github_dark)
