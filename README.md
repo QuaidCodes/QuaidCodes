@@ -1,9 +1,4 @@
-# Hello World, I'm Quaid Tahir
-
 ## Software Engineer
-
-I build scalable, elegant software solutions that solve problems that matter.
-
 ---
 
 📫 **Get in touch:**  
