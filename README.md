@@ -4,9 +4,6 @@
 
 [📧 quaidtahirw@gmail.com](mailto:quaidtahirw@gmail.com) | [🌐 quaidtahir.com](https://quaidtahir.com) | [🐙 github.com/QuaidCodes](https://github.com/QuaidCodes) | [💼 linkedin.com/in/quaidtahir](https://linkedin.com/in/quaidtahir)
 
----
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuaidCodes&layout=compact&theme=github_dark)
 
 ## 🛠 Skills & Tech Radar
 
